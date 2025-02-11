@@ -59,7 +59,7 @@
       - Non-OpenAI Agents in Active Development 🚧
 - 🌎 Multilingual UI:
   - English, 中文, Deutsch, Español, Français, Italiano, Polski, Português Brasileiro,
-  - Русский, 日本語, Svenska, 한국어, Tiếng Việt, 繁體中文, العربية, Türkçe, Nederlands, עברית
+  - Русский, 日本語, Svenska, Tiếng Việt, 繁體中文, العربية, Türkçe, Nederlands, עברית
 - 🎨 Customizable Dropdown & Interface: Adapts to both power users and newcomers
 - 📧 Verify your email to ensure secure access
 - 🗣️ Chat hands-free with Speech-to-Text and Text-to-Speech magic
